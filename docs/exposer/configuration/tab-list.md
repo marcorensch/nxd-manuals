@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'List Tab'
-sidebar_position: 3
+sidebar_position: 6
 ---
 
 # List Tab

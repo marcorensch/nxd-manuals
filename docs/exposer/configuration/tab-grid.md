@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Grid Tab'
-sidebar_position: 2
+sidebar_position: 7
 ---
 
 # Grid Tab
