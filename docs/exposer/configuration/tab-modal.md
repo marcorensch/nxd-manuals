@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Modal Tab'
-sidebar_position: 1
+sidebar_position: 8
 ---
 
 # Modal Tab
