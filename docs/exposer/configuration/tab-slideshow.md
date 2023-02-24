@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Slideshow Tab'
 sidebar_position: 5
+toc_max_heading_level: 2
 ---
 
 # Slideshow Tab

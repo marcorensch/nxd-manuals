@@ -1,0 +1,8 @@
+{
+  "label": "UIkit 3",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "NXD is using UIkit 3 as a base for the frontend. UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces."
+  }
+}

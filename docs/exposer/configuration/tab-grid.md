@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Grid Tab'
 sidebar_position: 7
+toc_max_heading_level: 2
 ---
 
 # Grid Tab

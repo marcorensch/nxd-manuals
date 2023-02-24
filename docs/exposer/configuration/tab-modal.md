@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Modal Tab'
 sidebar_position: 8
+toc_max_heading_level: 2
 ---
 
 # Modal Tab

@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Advanced Tab'
 sidebar_position: 9
+toc_max_heading_level: 2
 ---
 
 # Advanced Tab

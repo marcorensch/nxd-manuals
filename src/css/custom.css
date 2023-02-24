@@ -29,15 +29,63 @@
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-img {
-    display: block;
-    max-width: min(80%, 600px);
-    margin-left: auto;
-    margin-right: auto;
+code {
+    white-space: nowrap;
+}
+
+.table100 {
+    width:100%;
+    border: 10px solid red;
+}
+
+table td{
+    width: 50vw;
+}
+table td:first-of-type {
+    width: 20vw;
+}
+
+.marked{
+    display: inline-block;
+    padding: 0rem 0.4rem;
+    border-radius: 0.2rem;
+}
+.marked-blue {
+    background-color: #0b9ae0;
+    color: #fff;
 
 }
 
-img.bordered{
+.marked-orange {
+    background-color: #e0560b;
+    color: #fff;
+}
+
+.marked-red {
+    background-color: #e00b0b;
+    color: #fff;
+}
+
+article img {
+    display: block;
+    max-width: min(75%, 800px);
+    margin: 2rem auto;
+}
+
+article img.full-width{
+    max-width: min(100%, 1200px);
+    width: 100%;
+}
+
+article img.bordered{
     border-radius: .5rem;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+}
+
+.lead{
+    font-size: 1.5rem;
+    opacity: .6;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 1rem;
 }

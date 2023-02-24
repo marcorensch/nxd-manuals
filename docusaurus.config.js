@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'NXD Documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'NXD Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -74,11 +74,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Manuals',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/marcorensch/nxd-manuals',
             label: 'GitHub',
             position: 'right',
           },
@@ -127,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} nx-designs, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
