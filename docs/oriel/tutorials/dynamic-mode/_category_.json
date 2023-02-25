@@ -1,0 +1,8 @@
+{
+  "label": "Dynamic Mode",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "In this section, you will learn how to use the dynamic mode of the plugin. This mode allows you to use only one module instance to display different content on different pages."
+  }
+}

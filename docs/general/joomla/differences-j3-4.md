@@ -17,7 +17,7 @@ While the settings in our extensions remains the same it might look different Jo
 <img src="/img/general/modules_j3.png" alt="Joomla 3 Modules Overview" className="bordered" />
 
 In Joomla 3.x you can access the **module settings** by clicking on the module title in the module manager.  
-The **module manager** can be found in the Joomla! backend under `Extensions>Modules`.
+The **module manager** can be found in the Joomla! backend under `Extensions > Modules`.
 
 ### Joomla 4.x
 
@@ -39,7 +39,7 @@ The **Custom Field Groups** can be found in the Joomla! backend under `Content >
 <img src="/img/general/field-groups-j4.png" alt="Joomla 4 Field Groups Overview" className="bordered" />
 
 In Joomla 4.x you can access the **Custom Field Groups** by clicking on the group title in the custom field group manager.
-The **Custom Field Groups** can be found in the Joomla! backend under `Content > Fields > Groups`.
+The **Custom Field Groups** can be found in the Joomla! backend under `Content > Field Groups`.
 
 ## Access Custom Fields
 ### Joomla 3.x
