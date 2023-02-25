@@ -15,13 +15,13 @@ Exposer module in a base configuration. And now we are going to spruce it up a b
 
 This is what we currently see when we open our site:
 
-<img src="/img/frontend_first_impression.jpg" alt="Module Displayed" className="bordered" />
+<img src="/img/general/frontend_first_impression.jpg" alt="Module Displayed" className="bordered" />
 
 I'm honest, I wouldn't charge you for that either. But that can be arranged. First of all, we go back to the Joomla!
 admin interface and add some images to our articles. For this we open in the Joomla! backend again the article edit
 mask:
 
-<img src="/img/article_edit_c1.jpg" alt="Edit Article" className="bordered" />
+<img src="/img/general/article_edit_c1.jpg" alt="Edit Article" className="bordered" />
 
 In the tab **Images and Links** we can define images for the article.
 
@@ -32,17 +32,17 @@ server, you can also do this simply by clicking on the respective article and th
 here are currently not relevant for Exposer.
 
 After we have added an intro picture to all four articles we can now go back to the settings for Exposer (remember?
-Extensions->Modules and here in the list you will find the Exposer module with the name you chose, in our example "hello
+`Extensions > Modules` in Joomla 3 or `Content > Site Modules` in Joomla 4 and here in the list you will find the Exposer module with the name you chose, in our example "hello
 exposer!) Here we choose the Article Intro Image field as image source:
 
-<img src="/img/img_src_intro_img.jpg" alt="Module Image Source" className="bordered" />
+<img src="/img/exposer/img_src_intro_img.jpg" alt="Module Image Source" className="bordered" />
 
 > **Credits:**  
 > Our examples are always using images from unsplash.com -> image credits can be found in the filename
 
 If we now reload our page we see the following:
 
-<img src="/img/exposer_with_images.jpg" alt="Module Displayed" className="bordered" />
+<img src="/img/exposer/exposer_with_images.jpg" alt="Module Displayed" className="bordered" />
 
 And that's it for now, you can now customize the look of the module with the parameters of your Exposer instance, be a
 little creative and try to see what's possible. You will find some tips in the form of more tutorials on this page.

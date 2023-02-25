@@ -16,7 +16,7 @@ and you finally want to continue.
 
 If you have already done the homework, you should now have four items ready for use in Exposer:
 
-<img src="/img/article_overview_4_art.jpg" alt="4 Articles" className="bordered" />
+<img src="/img/general/article_overview_4_art.jpg" alt="4 Articles" className="bordered" />
 
 ## Create new module instance
 

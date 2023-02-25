@@ -97,7 +97,7 @@ Let's make this quick - We create a new Exposer instance in the module overview 
 the dynamic filter (we leave the other filters untouched):
 
 
-<img src="/img/exposer/exposer151_dynfilter_example.png" alt="Dynamic Filter Setup" className="bordered" />
+<img src="/img/exposer/exposer151_dynfilter_example.jpg" alt="Dynamic Filter Setup" className="bordered" />
 
 ### Explanation of the settings
 #### Conditions

@@ -18,7 +18,7 @@ To start we can (if we are still on the category view from before) just click on
 you are somewhere else in the Joomla! backend you can click on Content in the main menu above and then on Article to get
 to the following screen:
 
-<img src="/img/articles_list_empty.jpg" alt="Empty Articles" className="bordered full-width" />
+<img src="/img/general/articles_list_empty.jpg" alt="Empty Articles" className="bordered full-width" />
 
 This page shows a list of all articles of your website - at this point again the hint: If you have installed Joomla!
 including demo content there might be articles already listed here. But we don't let this iritate us and simply create
@@ -39,7 +39,7 @@ if the article should be displayed and which category the article belongs to. Th
 title and the content editor should not be ignored, the two tabs marked in <span class="marked marked-red">red</span>
 have fields that are useful for us and we will look at them in detail in a moment.
 
-<img src="/img/article_edit_empty.jpg" alt="Article Edit" className="bordered full-width" />
+<img src="/img/general/article_edit_empty.jpg" alt="Article Edit" className="bordered full-width" />
 
 ## Create some Content
 
@@ -49,7 +49,7 @@ native language but here is a generator for dummy texts if you need one: [Dummy 
 
 Our article now looks like this:
 
-<img src="/img/article_edit_c1.jpg" alt="Article Edit" className="bordered full-width" />
+<img src="/img/general/article_edit_c1.jpg" alt="Article Edit" className="bordered full-width" />
 
 That's enough for now, now we have to make sure that we have assigned the article to the correct category, for this we
 select our previously created category from the dropdown list on the right. Please also make sure that the status here
@@ -57,7 +57,7 @@ is set to Published and the Access is set to Public. Exposer and other extension
 different access, but the user who is viewing the website must also have the appropriate access level. To make it short:
 Make the article public and everyone will see the article and we don't have to worry about that right now.
 
-<img src="/img/article_sel_cat.jpg" alt="Article Edit" className="bordered" />
+<img src="/img/general/article_sel_cat.jpg" alt="Article Edit" className="bordered" />
 
 So far so good, we have now filled an article with content, assigned it to our category and set the status and access
 level correctly. Now we save this article with the button in the upper left corner (<span class="marked marked-green">
@@ -72,7 +72,7 @@ For this we click after saving on the new button Save as Copy which has now appe
 A click on this button creates a new article and copies all contents of this article there. We are also automatically
 forwarded to the edit mask of the **NEW** article:
 
-<img src="/img/copied_article.jpg" alt="Article Edit copied Article" className="bordered full-width" />
+<img src="/img/general/copied_article.jpg" alt="Article Edit copied Article" className="bordered full-width" />
 
 As you can see the whole thing doesn't really look any different than before, only the options for titles, aliases have
 been given one (2) (since a copy of the first article) and the status has been automatically set to unpublished. Again,
@@ -89,7 +89,7 @@ This time in short form:
 
 This time we click on save and close and are forwarded to the article overview:
 
-<img src="/img/article_overview_two_art.jpg" alt="Article Edit copied Article" className="bordered full-width" />
+<img src="/img/general/article_overview_two_art.jpg" alt="Article Edit copied Article" className="bordered full-width" />
 
 We can now see the following in the article overview:
 
