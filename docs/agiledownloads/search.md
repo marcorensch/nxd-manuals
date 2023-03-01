@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Search (Pro Feature)'
-sidebar_position: 2
+sidebar_label: 'Search (Pro)'
+sidebar_position: 12
 toc_max_heading_level: 2
 ---
 
