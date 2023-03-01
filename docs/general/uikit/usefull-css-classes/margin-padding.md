@@ -5,7 +5,9 @@ toc_max_heading_level: 3
 ---
 
 # Margin & Padding CSS Classes
-UIkit offers various margin and padding utilities to style your elements. You can use those classes in our Extensions to style your elements.
+
+UIkit offers various margin and padding utilities to style your elements. You can use those classes in our Extensions to
+style your elements.
 
 ## Margin
 
@@ -18,15 +20,18 @@ UIkit offers various margin and padding utilities to style your elements. You ca
 ### Dedicated Margin
 
 You can easily add margin to the top, bottom, left or right of an element by using the following classes.
-simply replace the `{x}` with `top`, `bottom`, `left` or `right`. Or use `small` or `large` to add a margin to the
-element.
+simply replace the `{x}` with `small` or `large` to add a margin to the element.
 
-| Class                  | Description                          |
-|:-----------------------|:-------------------------------------|
-| `uk-margin-{x}-bottom` | Adds a bottom margin to the element. |
-| `uk-margin-{x}-top`    | Adds a top margin to the element.    |
-| `uk-margin-{x}-right`  | Adds a right margin to the element.  |
-| `uk-margin-{x}-left`   | Adds a left margin to the element.   |
+| Class                  | Description                                          |
+|:-----------------------|:-----------------------------------------------------|
+| `uk-margin-{x}-bottom` | Adds a (small / large) bottom margin to the element. |
+| `uk-margin-bottom`     | Adds a default bottom margin to the element.         |
+| `uk-margin-{x}-top`    | Adds a (small / large) top margin to the element.    |
+| `uk-margin-top`        | Adds a default top margin to the element.            |
+| `uk-margin-{x}-right`  | Adds a (small / large) right margin to the element.  |
+| `uk-margin-right`      | Adds a default right margin to the element.          |
+| `uk-margin-{x}-left`   | Adds a (small / large) left margin to the element.   |
+| `uk-margin-left`       | Adds a default left margin to the element.           |
 
 ## Padding
 

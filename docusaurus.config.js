@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'nxd/marcorensch', // Usually your GitHub org/user name.
-  projectName: 'nxdmanuals', // Usually your repo name.
+  organizationName: 'marcorensch', // Usually your GitHub org/user name.
+  projectName: 'manuals', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
