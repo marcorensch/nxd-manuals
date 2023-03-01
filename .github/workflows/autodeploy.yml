@@ -1,0 +1,19 @@
+name: Auto Deploy
+on:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js # setup Node.js in the runner
+        uses: actions/setup-node@v1
+        with:
+          node-version: '18'
+      - name: Install dependencies # install dependencies
+        run: npm install
+      - name: Build # build the project
+        run: npm run build
