@@ -33,5 +33,11 @@ Define where the text for the URL should be taken from. The following options ar
 - URL Label Field
 - Module
 
-#### Text for Badge
+### Text for Badge
 If you choose "Module" as Text Source you can define the text for the badge here.
+
+### Use Fallback Label
+If the URLx label field in the article settings is empty, the fallback text will be used instead. 
+
+### Fallback Label
+The Text that should be displayed if the URLx label field is empty in article settings. 

@@ -31,5 +31,25 @@ accordingly).
 
 <img src="/img/exposer/ext-article-example.png" alt="Mix Internal & External Articles" className="bordered" />
 
-> **Note:** The Screenshot above shows how an external article is displayed in the grid layout. The other grid items will link to
+> **Note:** The Screenshot above shows how an external article is displayed in the grid layout. The other grid items
+> will link to
 > the related article on click while this item will link to an external page from "GRHeute"
+
+## How to use
+
+Setup one of the URL fields in the article edit screen to link to an external URL. In our Example we use URL A. You can
+find the URL fields in the tab "Images and Links".
+<img src="/img/exposer/ext-article-url.png" alt="External Article URL" className="bordered" />
+
+Now you can configure the module to use the URL (if given) as a badge and or link. Navigate to the Exposer module and
+navigate to the tab "URL". Here you can configure the URL fields to use the URL as a link or badge.
+<img src="/img/exposer/urla-setup-module.png" alt="External Article Module" className="bordered" />
+
+Please be aware that you can only use one URL field as a link. If you have configured URL A and C as a link, only the
+link of C will be used. If you want to use the link of URL A, you have to configure URL C as "Badge Info Only".
+
+### Target Window
+
+The target window defines how the link should be opened. You have to set this option on article level. Use the **URL
+Target Window** option to define the target window for the URL field, Exposer's option **Hyperlink Target** has no effect on the URL field.
+
