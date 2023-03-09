@@ -15,7 +15,7 @@ Downloads should search for files. You can either select a folder on your server
 <div class="alert alert--info">
 <b>Pro Version Only:</b><br/>In the professional version of this module, you can select multipe folders to watch.
 </div>
-
+<br />
 <div class="alert alert--info">
 <b>Pro Version Only:</b><br/>In the professional version of this module, you can add an Access Restriction See the related article to know more.
 </div>
