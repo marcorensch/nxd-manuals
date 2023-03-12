@@ -81,7 +81,8 @@ table td:first-of-type {
     color: #fff;
 }
 
-article img {
+article img,
+article video {
     display: block;
     max-width: min(75%, 800px);
     margin: 2rem auto;
@@ -92,7 +93,8 @@ article img.full-width{
     width: 100%;
 }
 
-article img.bordered{
+article img.bordered,
+article video.bordered{
     border-radius: .5rem;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
 }
