@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Install Extensions'
 sidebar_position: 2
-toc_max_heading_level: 2
+toc_max_heading_level: 3
 ---
 
 # Installation of Extensions
@@ -18,7 +18,9 @@ clicking ont its name and install the extension via the Joomla Extension Manager
 You need to have an active Subscription for a product to been able to Download an Extension.
 </div>
 
-## Install an Extension via the Extension Manager in Joomla 4.x
+## Install an Extension
+
+### Extension Manager in Joomla 4.x
 
 <div class="alert alert--info">
 This Section describes the installation of an extension in Joomla 4.x. 
@@ -36,7 +38,7 @@ For our extensions and most users, the procedure will be:
 - Some extensions may provide further instructions on installation.
 - Note that modules and plugins must be **enabled** before they will work.
 
-## Install an Extension via the Extension Manager in Joomla 3.x
+### Extension Manager in Joomla 3.x
 
 the steps are not much different for Joomla 3.x:
 - Download the extension to your local machine as a .zip file package.

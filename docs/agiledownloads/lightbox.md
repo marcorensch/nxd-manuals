@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Lightbox (Pro)'
+sidebar_label: '💲 Lightbox'
 sidebar_position: 3
 toc_max_heading_level: 2
 ---

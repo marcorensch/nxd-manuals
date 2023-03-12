@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Widget Features'
+sidebar_label: '🪄 Widget Features'
 sidebar_position: 99
 toc_max_heading_level: 3
 ---
 
-# Widget Feature Options 
+# Widget Features 
 
 This section describes options for features that are available in more than one Widget.
 

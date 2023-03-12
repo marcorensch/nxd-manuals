@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Search (Pro)'
+sidebar_label: '💲 Search'
 sidebar_position: 12
 toc_max_heading_level: 2
 ---
