@@ -24,6 +24,9 @@ All text contents afterwards as Fulltext.
 
 In TinyMCE (the default editor for Joomla) you can find the **Readmore** button in the **Insert** menu.
 
+More information about the Read More function in Joomla! can be found in the official Joomla! Documentation.  
+[Splitting an Article into an introduction with a link to read more](https://docs.joomla.org/Splitting_an_Article_into_an_introduction_with_a_link_to_read_more)
+
 ## Categories
 
 NXD Extensions support the Joomla! Categories. You can create categories for your articles and assign them to. All
