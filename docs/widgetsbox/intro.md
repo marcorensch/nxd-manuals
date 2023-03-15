@@ -20,3 +20,11 @@ So you might think *"ey - this WidgetsBox thing, it looks familiar to me!"* - an
 Exposer Module and yes there are some similarities. So why did we create a new Module? Well, we wanted to create a
 Module that
 is easier to use and has a more intuitive interface. So we created WidgetsBox.
+
+## But if WidgetsBox is so good, why does Exposer continue to be developed?
+
+In fact, it was intended that WidgetsBox will be the successor of Exposer. But we realized that Exposer has so much more
+to offer that we can't implement in WidgetsBox in this "simple" way as it is intended for WidgetsBox.
+So we decided to keep Exposer as it is and to develop WidgetsBox as a new Module. So you can use both Modules and decide
+which one fits your needs best. WdigetsBox might be easier to start with, but Exposer has more features and But Exposer
+includes more features and more flexibility, but is also more complex to use.
