@@ -23,8 +23,10 @@ is easier to use and has a more intuitive interface. So we created WidgetsBox.
 
 ## But if WidgetsBox is so good, why does Exposer continue to be developed?
 
-In fact, it was intended that WidgetsBox will be the successor of Exposer. But we realized that Exposer has so much more
-to offer that we can't implement in WidgetsBox in this "simple" way as it is intended for WidgetsBox.
-So we decided to keep Exposer as it is and to develop WidgetsBox as a new Module. So you can use both Modules and decide
-which one fits your needs best. WdigetsBox might be easier to start with, but Exposer has more features and But Exposer
-includes more features and more flexibility, but is also more complex to use.
+In fact, it was intended that WidgetsBox will be the successor of Exposer. But I've realized that Exposer has so much
+more
+to offer that i can't implement in WidgetsBox in this "simple" way as it is intended for WidgetsBox.
+So I've decided to keep Exposer as it is and to develop WidgetsBox as a new Module. So you can use both Modules and
+decide
+which one fits your needs best. WidgetsBox might be easier to start with, but Exposer
+includes more features and more flexibility, but is also more complex to use & learn.
