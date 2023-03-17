@@ -1,0 +1,8 @@
+{
+  "label": "Configuration",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Describes the configuration elements used in the module.",
+  }
+}

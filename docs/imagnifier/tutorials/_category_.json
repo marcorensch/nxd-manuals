@@ -1,0 +1,8 @@
+{
+  "label": "Tutorials",
+  "position": 99,
+  "link": {
+    "type": "generated-index",
+    "description": "Tutorials for iMagnifier for Joomla"
+  }
+}
