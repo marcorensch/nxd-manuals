@@ -37,18 +37,20 @@ The Fields Manager can be found in the Main Menu: **Content** > **Fields**.
 <img src="/img/general/fields-j4.png" alt="Fields Manager in Joomla 4.x" className="bordered" />
 
 Use the Button on the Top left to Add a new Field. As field type
-we choose "Media" which allows us to select a BIld with the media manager later in the article editor. (Note: If you use
+we choose "Media" which allows us to select later an image with the media manager in the article editor. (Note: If you
+use
 the JCE Media Manager you can also select the JCE File Browser (media) field).
 
 <div class="alert alert--info">
-<b>Sidenote:</b> All field types are supported that save the selected image as a value.
-Plugins that support responsive viewing of images or compression cannot be used.
+<b>Sidenote:</b> In general all field types  that stores the image path as value are supported.
+3rd Party Plugins that supports responsive viewing of images or compression cannot be used with iMagnifier.
 </div>
 
 <img src="/img/general/image-media-field-j4-new.png" alt="New Field in Joomla 4.x" className="bordered" />
 
 Above you see as an example the creation mask of my custom field for the Preview / Main Image. In this tutorial we don't
-care about the column on the right, if you know how it works you can of course add the field to a group and / or assign
+care about the column on the right. But if you know how it works you can of course add the field to a group and / or
+assign
 it to a category, but in our example we leave everything on default.
 
 <div class="alert alert--warning">
@@ -60,8 +62,8 @@ article view itself. If you don't want this, you can disable this in the field s
 ### Create a custom field for the zoomed image (optional)
 
 We now click on Save in the upper left corner, the new field is now displayed in the overview. If we now want to have
-the possibility to define a second picture (for the HiRes in the article we just click on New again in the upper left
-corner. Again, we select the field type Media and give the field a name to identify the field later.
+the possibility to define a second picture (for the HiRes image) we just click on **New** once more to create another
+Field of type Media. Just name it "HiRes Image" to identify it later.
 
 ## Create a new module instance of the iMagnifier
 
@@ -75,7 +77,9 @@ that you have bought, downloaded and installed the iMagnifier module on this pag
 
 To use iMagnifier in dynamic mode simply select dynamic as source mode. After that the Image & HiRes Image fields will
 be replaced by drop down lists that allow you to select the custom fields you created before. So now select the
-previously created fields as sources for Image & HiRes Image. If you work with only one image you can either select
+previously created fields as sources for Image & HiRes Image. 
+
+If you work with only one image you can either select
 nothing in the HiRes Image field or use the same field as for Image. The result will be the same, the Main Image is also
 used for zooming.
 
