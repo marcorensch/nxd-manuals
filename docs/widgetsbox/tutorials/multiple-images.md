@@ -51,10 +51,8 @@ option below called ``Custom Field``. Here we select our Subform Field Type that
 set an ``Alternative Image Source`` that will be used if we did not have an image setted up in the article's custom
 field.
 
-<div class="alert alert--info">
-<b>Sidenote:</b> It does not matter if we want to use "Multiple Images" in our Module instance, the Alternative Image 
+<div class="alert alert--info"><b>Sidenote:</b> It does not matter if we want to use "Multiple Images" in our Module instance, the Alternative Image 
 will be used if the primary Source doesn't have an image configured.</div>
-<br/>
 
 Configure the module now as you like, if available the module will use the images setted up in an article's Custom
 Field Section as images inside WidgetsBox. **For the Slideshow the ratio of the first image will be used to define the

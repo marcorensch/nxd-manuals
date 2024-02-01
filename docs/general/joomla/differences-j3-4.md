@@ -8,8 +8,7 @@ toc_max_heading_level: 2
 <p class="lead">
 Most our extensions are available for Joomla! 3.x & Joomla! 4.x - Please check the Compatibility information on the related Product Page.
 </p>
-<p>
-While the settings in our extensions remains the same it might look different Joomla 4 & Joomla 3 but this is nothing to worry about.</p>
+While the settings in our extensions remains the same it might look different Joomla 4 & Joomla 3 but this is nothing to worry about.
 
 ## Access Module Parameters
 ### Joomla 3.x

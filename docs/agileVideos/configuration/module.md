@@ -56,10 +56,9 @@ Here you can select the sorting of the videos in the frontend. You can choose be
 - ``Name``: Sorts the videos by the name of the video file.
 
 <div class="alert alert--info">
-    <p><strong>Please Note:</strong> On some Server Systems there is no difference between the Modified and Created 
+    <strong>Please Note:</strong> On some Server Systems there is no difference between the Modified and Created 
         Timestamps (There exists only the Modified one). This is not a bug of the Module or Joomla! it's simply 
         how your Server works. On Those Systems the Modified Timestamp will be used for both options.
-    </p>
 </div>
 
 ## Sorting Direction

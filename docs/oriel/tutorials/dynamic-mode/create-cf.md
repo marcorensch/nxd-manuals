@@ -6,8 +6,7 @@ toc_max_heading_level: 2
 
 # Create a Customfield
 
-<p class="alert alert--primary">
-This is a multipart tutorial that shows you how to use a single instance of the Oriel Pro module for Joomla! in multiple 
+<p class="alert alert--primary">This is a multipart tutorial that shows you how to use a single instance of the Oriel Pro module for Joomla! in multiple 
 articles and create dynamic galleries. This way you can generate different galleries on different pages with only one 
 module instance.</p>
 

@@ -34,7 +34,8 @@ following settings:
 <img src="/img/exposer/dynamic-category-module-settings.png" alt="Exposer Dynamic Category Module Settings" className="bordered" />
 
 <div class="alert alert--warning">
-<b>Please be aware that:</b><br/>The module does not get rendered when there are no items matching the current filter.</div>
+Please be aware that:<br/>The module does not get rendered when there are no items matching the current filter.
+</div>
 
 ## Publishing the Module
 
