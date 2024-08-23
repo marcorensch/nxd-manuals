@@ -104,10 +104,10 @@ const config = {
                 label: 'Homepage',
                 href: 'https://www.nx-designs.ch',
               },
-                {
-                label: 'Support',
-                href: 'https://www.nx-designs.ch/support/supportforum',
-                }
+              {
+                label: 'Extension Demos',
+                href: 'https://demo.nx-designs.com',
+              }
             ],
           },
           {
@@ -117,6 +117,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/marcorensch/nxd-manuals',
               },
+              {
+                label: 'Buy me a coffee',
+                href: 'https://buymeacoffee.com/nxdesigns',
+              }
             ],
           },
         ],
