@@ -52,6 +52,10 @@ const config = {
     ],
   ],
 
+  plugins: [
+      'image-zoom'
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -130,6 +134,17 @@ const config = {
         lightTheme,
         darkTheme,
       },
+      zoom: {
+        selector: '.markdown > img',
+        background: {
+          light: 'rgba(255, 255, 255, 0.9)',
+          dark: 'rgba(0, 0, 0, 0.9)'
+        },
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+          margin: 100,
+        }
+      }
     }),
 };
 
