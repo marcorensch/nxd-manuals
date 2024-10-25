@@ -15,6 +15,11 @@ This Section of the Settings is to style the Hub Items. The Hub Items are the el
 
 Define the size of the Hub Items. The size can be set in Pixels, em, or rem.
 
+### Icon Size
+
+Define the size of the Icons in the Hub Items. In the Free Version, yo get the standard fa-2xs to fa-2xl sizes. In the
+Pro Version you can select from 18 predefined sizes from 0.625em up to 10em (fa-2xs to fa-10x).
+
 ### Item Gap (Spacing)
 
 Define the gap between the Hub Items. The gap can be set in Pixels, em, or rem.
@@ -55,7 +60,7 @@ If the Load Animation is enabled you can define the Item Delay here. The Item De
 each item waits (after the first one) before it starts the animation.
 
 :::info
-The Colors of the items are described in the [Colors](/docs/hyperionhub/design/colors) Section.
+The Colors of the items are described in the [Colors](/docs/hyperionhub/settings/design/colors) Section.
 :::
 
 <img src="/img/hyperionhub/item_settings.jpg" alt="HyperionHub Item Settings" class="bordered" />

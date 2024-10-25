@@ -110,3 +110,10 @@ article video.bordered{
 .small {
     font-size: .9rem;
 }
+
+/* Table */
+table {
+    th:first-of-type, td:first-of-type {
+        width: 30%;
+    }
+}

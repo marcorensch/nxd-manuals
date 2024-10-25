@@ -16,10 +16,19 @@ The NXD HyperionHub can be displayed on the left, right, top, or bottom of the p
 The Position will be fixed and the Hub will be displayed on top of the content.
 Select the desired position here.
 
+<img src="/img/hyperionhub/hub_positions.jpg" alt="HyperionHub Positions" class="bordered" />
+
+Available Options are:
+- **Top** The Hub Icons will be displayed on the top of the page.
+- **Bottom** The Hub Icons will be displayed on the bottom of the page.
+- **Left** The Hub Icons will be displayed on the left side of the page.
+- **Right** The Hub Icons will be displayed on the right side of the page.
+
+
 ### Hub Offset Top
 
 The Hub Offset Top allows you to set the distance between the top of the page and the top of the Hub.
-This Setting is only available if the Hub Position is set to **left** or **right**.
+This Setting is only available if the Hub Position is set to `left` or `right`.
 
 #### Available Options
 
@@ -32,7 +41,7 @@ It might be necessary to adjust (increase) the Z-Index if the Hub is not display
 
 ### Hub horizontally centered
 
-When **Top** or **Bottom** are selected this option will be available and allows you easily center the Hub horizontally
+When `top` or `bottom` are selected this option will be available and allows you easily center the Hub horizontally
 without messing around with additional options.
 
 ### Hub Offset Left
@@ -42,8 +51,6 @@ See the next section for more information.
 Available Unit Options are:
 - Pixels
 - Viewport Width (vw)
-- em
-- rem
 - auto
 
 ### Hub Offset Right
@@ -53,14 +60,16 @@ See the next section for more information.
 Available Unit Options are:
 - Pixels
 - Viewport Width (vw)
-- em
-- rem
 - auto
+
+:::warning[Important]
+If you set one of the Hub Offset Left or Right to a fixed value, the other side should be set to **auto**.
+:::
 
 ## Aligning the Hub manually horizontally
 
 There might be cases where you want to align the Hub manually. In this case, you can use the following options which are
-available when the Hub Position is set to **Top** or **Bottom** and the *Hub hoizontally centered* option is set to no.
+available when the Hub Position is set to `top` or `bottom` and the **Hub hoizontally centered** option is set to no.
 
 ### Align the Hub to one side
 
@@ -70,9 +79,9 @@ available in the Unit selector).
 
 So the following setup will align the Hub to the **Bottom** **Left** side of the page with a distance of 50px:
 
-- Hub Position: **Bottom**
-- Hub Offset Left: **50px**
-- Hub Offset Right: **auto**
+- Hub Position: `Bottom`
+- Hub Offset Left: `50px`
+- Hub Offset Right: `auto`
 
 <img src="/img/hyperionhub/design_bottom_left.jpg" alt="HyperionHub Positioned Bottom Left" class="bordered" />
 

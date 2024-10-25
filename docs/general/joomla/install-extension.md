@@ -20,10 +20,10 @@ You need to have an active Subscription for a product to been able to Download a
 
 ## Install an Extension
 
-### Extension Manager in Joomla 4.x
+### Extension Manager in Joomla 4.x & 5.x
 
 <div class="alert alert--info">
-This Section describes the installation of an extension in Joomla 4.x. 
+This Section describes the installation of an extension in Joomla 4.x / 5.x. 
 If you are using Joomla 3.x please follow the instructions in the next section.
 </div>
 
