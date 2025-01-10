@@ -1,5 +1,3 @@
 ---
 title: Advanced Functionalities
 ---
-
-bla
