@@ -78,6 +78,12 @@ rendered in the frontend.
 - **description** false or a string containing the Image Description (will be visible in the Lightbox)
 
 :::note
-To Display a Link Icon on the Image you need also to turn the option "Show Link Symbol" in the Module Settings
+To display a Link Icon on the Image you need also to turn the option "Show Link Symbol" in the Module Settings
 in the Tab **Thumbnail & Lightbox** to **yes**
+:::
+
+:::note
+To show the given description the module supports different options in the **Thumbnail & Lightbox** section: 
+"Yes, with Fallback" which shows the image title if no description is given or "Yes, without Fallback" which shows no 
+further information in the Lightbox.
 :::
