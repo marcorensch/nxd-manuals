@@ -5,6 +5,8 @@ sidebar_position: 1
 toc_max_heading_level: 3
 ---
 
+![Joomet Dashboard](./_assets/dashboard.png)
+
 ## What is Joomet?
 
 Joomet was created for the Joomla developer community, it allows you to check the language files of your extensions 
@@ -12,6 +14,14 @@ and translate them into dozens of languages within seconds using [DeepL](https:/
 
 As a backend component for Joomla! 5.x, you can simply run Joomet on your test environment to conveniently check your 
 language files in the local installation or via upload. An internet connection is required for the translation services.
+
+## Features
+
+- File Upload
+- Check uploaded language file (.ini) for syntax errors
+- Check installed language diles for syntax errors
+- Edit uploaded files directly in the component
+- Translate your language file with DeepL (Free / Pro DeepL API Key required)
 
 ## Why Joomet?
 
@@ -39,8 +49,12 @@ Joomet uses the great DeepL API - so we have no direct influence on the translat
 
 ## Where can I get Joomet?
 
-You can directly download Joomet from the public GitHub repository [here](https://github.com/marcorensch/com_joomet/archive/refs/heads/main.zip). 
+You can directly download Joomet from the public GitHub repository [here](https://github.com/marcorensch/com_joomet/releases). 
 You can find the repository itself at [this link](https://github.com/marcorensch/com_joomet).
+
+**Attention:** The project cannot simply be downloaded and installed via the source code. 
+Before installation, the dependencies must be installed using Composer. Further information can be found in the readme 
+file.
 
 ## How can I support you / the project?
 
