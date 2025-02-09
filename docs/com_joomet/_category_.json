@@ -1,6 +1,6 @@
 {
-  "label": "Joomet",
-  "position": 99,
+  "label": "[DEV] Joomet",
+  "position": 999,
   "link": {
     "type": "generated-index",
     "description": "Joomet Component - Joomla Language File Checker & Translator for Joomla 5.x"

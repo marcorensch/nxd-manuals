@@ -20,11 +20,24 @@ checking an extremely large file, this value can be increased.
 
 ## Translator
 
+![Config Screen Translator Tab](./_assets/config_translator.png)
+
 ### DeepL API Key
 
-Enter here your DeepL API Key to translate language files with this component. Your API Key will be stored encrypted 
+Enter here your DeepL API Key to translate language files with this component. **Your API Key will be stored encrypted** 
 in your component settings. [Click here](https://support.deepl.com/hc/en-us/articles/360020695820-API-Key-for-DeepL-s-API) 
 to learn how to get an API Key.
+
+### Usage
+
+Only visible after you have entered your API Key and Saved the Settings.
+This field shows you how much of your monthly character quota you have already used.
+The limit is defined by DeepL and depends on your API key. **Joomet has no implemented limit**.
+
+### Language Cache
+
+After you have entered an API key and saved the component settings, you still need to update the language cache here.
+This action checks which languages are available for translation at DeepL.
 
 ### Ignore Empty Rows
 

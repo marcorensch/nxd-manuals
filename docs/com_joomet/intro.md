@@ -7,6 +7,10 @@ toc_max_heading_level: 3
 
 ![Joomet Dashboard](./_assets/dashboard.png)
 
+:::warning
+I recommend that you only use Joomet in your development environment and not on a productive site.
+:::
+
 ## What is Joomet?
 
 Joomet was created for the Joomla developer community, it allows you to check the language files of your extensions 
