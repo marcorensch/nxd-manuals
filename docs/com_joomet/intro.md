@@ -19,7 +19,8 @@ language files in the local installation or via upload. An internet connection i
 
 - File Upload
 - Check uploaded language file (.ini) for syntax errors
-- Check installed language diles for syntax errors
+- Check installed language files for syntax errors
+- Export Checker Result
 - Edit uploaded files directly in the component
 - Translate your language file with DeepL (Free / Pro DeepL API Key required)
 
