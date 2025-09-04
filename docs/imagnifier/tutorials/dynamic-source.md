@@ -111,7 +111,7 @@ Now we have to place the iMagnifier module in the desired module position. If yo
 on a module position, you will now get iMagnifier with the corresponding image when you call the article in the
 frontend. You can also call iMagnifier directly from within your article by switching to the content editor (tab
 **Content**) and inserting iMagnifier as a module directly into your article. How to do that is explained in this
-chapter: [How to insert a module into an article](/docs/general/joomla/article-handling-links#using-module-id-in-an-article).
+chapter: [How to insert a module into an article](/general/joomla/article-handling-links#using-module-id-in-an-article).
 
 ## Troubleshooting
 

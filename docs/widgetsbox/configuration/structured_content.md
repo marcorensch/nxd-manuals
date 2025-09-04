@@ -22,4 +22,4 @@ This module only generates the code for the selected content & types.
 
 Please check out this article to learn more about how you can use Structured Content. Structured data / content is
 complex and must be used correctly so that an added value can be achieved. The tutorial linked here
-is aimed at power users and is not designed for beginners: [Structured Content](/docs/widgetsbox/tutorials/structured_data)
+is aimed at power users and is not designed for beginners: [Structured Content](/widgetsbox/tutorials/structured_data)

@@ -24,10 +24,10 @@ want to display. This can be a full URL or a relative URL. Relative URLs are rel
 
 Next we create a new Module Instance of the Dynamic Wrapper Module, set it into Dynamic Mode and select the previously
 created Custom Field. Set the other module parameters as you like. See
-the [Module Parameters](/docs/dynamicwrapper/module) for more information.
+the [Module Parameters](/dynamicwrapper/module) for more information.
 
 ### Add Module to Page
 
 In the last step we add the module to the page where we want to display the content. How you can do this is described in
-the [Helpfull Ressources for Joomla Content](/docs/general/joomla/article-handling-links) section.
+the [Helpfull Ressources for Joomla Content](/general/joomla/article-handling-links) section.
 

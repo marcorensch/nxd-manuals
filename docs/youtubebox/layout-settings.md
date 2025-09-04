@@ -4,99 +4,133 @@ sidebar_position: 3
 toc_max_heading_level: 3
 ---
 
-# Layout Settings
+# Styling Settings
 
 This section gives you a brief overview of the available Layout Parameters of the NXD YouTubeBox.
 
-# Styling Tab
+## Player Layout
 
-Inside the Styling Tab you will find the styling parameters for the module instance.
+You can choose between three different layouts for the NXD YouTubeBox module.
 
-## Basics
+- Default Layout (Standard YouTube Player with an AspectRatio of 16:9)
+- Banner Layout (YouTube Player with a custom AspectRatio)
+- Polaroid Layout (YouTube Player with a custom AspectRatio and additional Options to create a Polaroid Effect)
 
-### Visual Style
+## Default Layout Options
 
-Select here if the module instance should be in Default Video Mode or if the nx-HeaderMode should be enabled.
+### Border Radius
 
-### Corner Radius (Default Visual Style)
+Define the Border Radius of the YouTube Player. Values can be set in px, em or rem.
 
-Define the Border Radius in Pixels.
+### Container Shadow
 
-### Video Rotation (Default Visual Style)
+Here you can define a shadow for the YouTube Player Container. Available options are:
 
-Set the rotation in degrees for the video container.
-
-### Videocontainer Height (HeaderMode Visual Style)
-
-Define the height of the Videoheader in Percent. The Percent value will be calculated by the effective height of the
-video on 100% width.
-
-### Vertical Movement (HeaderMode Visual Style)
-
-Define the position / offset of the Video inside the above defined Height.
-For example: If the height is set to 50 (above) set here -25 that way the verical centered 50% of the video will be
-visible.
-
-## Shadow Settings
-
-### Enable Shadow
-
-General Toggle to enable / disable Shadow Settings.
-
-### Shadow Color
-
-Select the Shadow Color.
-
-### Horizontal Offset
-
-Horizontal shadow offset in pixels.
-
-### Vertical Offset
-
-Vertical shadow offset in pixels.
-
-### Blur Radius
-
-The Blur Radius of the shadow in pixels.
-
-### Spread Radius
-
-The Spread radius of the shadow in pixels.
-
-## Border Settings
-
-### Enable Borders
-
-General Toggle for the Stage Container Borders.
-
-### Use Advanced Borders
-
-If enabled you will have additional settings to define the border size & color for each side individually.
-
-### Border Width
-
-Set the Border Width in pixels. Can be set individually for each side even if Use Advanced Borders is disabled.
-
-### General Border Color
-
-Select the Border Color for each side.
-
-## Blocklayer Settings
-
-### Enable Blocklayer
-
-Enable or Disable the Blocklayer Feature. The Blocklayer prevents cLick interaction on the Video and offers special
-styling possibilities.
-
-### Blocklayer Innershadow
-Enable the Advanced Blocklayer Innershadow Options if enabled you can define the following Features for the Blocklayer:
-- Inner Shadow Color
-- Horizontal Offset
-- Vertical Offset
+- Offset X
+- Offset Y
 - Blur Radius
-- Spread Radius
+- Color (rgba)
 
-### Blocklayer Overlay Color
-Here you can define an Overlay Color for the Blocklayer or simply use rgba(0,0,0,0) for a transparent layer.
+<img src="/img/nxd_youtubebox/nxd-ytb-shadow-editor-detail.png" alt="NXD YouTubeBox Shadow Editor" class="bordered" />
 
+### Custom Classnames
 
+Here you can define custom CSS Classnames for the YouTube Player Container.
+
+## Banner Layout Options
+
+### Border Radius
+
+Define the Border Radius of the YouTube Player. Values can be set in px, em or rem.
+
+### Aspect Ratio
+
+Define the Aspect Ratio of the YouTube Player. Allowed formats are 16:9 or 16/9.
+
+### Horizontal Alignment
+
+Only available if the Aspect Ratio defines a container that is wider than higher (Horizontal Banners).
+
+### Vertical Alignment
+
+Only available if the Aspect Ratio defines a container that is higher than wider (Vertical Banners _aka_ Skyscrapper).
+
+### Container Shadow
+
+Here you can define a shadow for the YouTube Player Container. Available options are:
+
+- Offset X
+- Offset Y
+- Blur Radius
+- Color (rgba)
+
+<img src="/img/nxd_youtubebox/nxd-ytb-shadow-editor-detail.png" alt="NXD YouTubeBox Shadow Editor" class="bordered" />
+
+### Custom Classnames
+
+Here you can define custom CSS Classnames for the YouTube Player Container.
+
+## Polaroid Layout Options
+
+### Polaroid Min Viewport
+
+From which viewport or larger should the Polaroid style be used? Small = Affects device widths of 640px and larger.
+Medium = Affects device widths of 960px and larger. Large = Affects device widths of 1200px and larger. XLarge = Affects
+device widths of 1600px and larger.
+
+### Polaroid Rotation
+
+Set the Rotation of the Polaroid in degrees. Minimal value is -179. Maximal value is 180.
+
+### Horizontal Padding
+
+Define the horizontal padding in percent. Can be used to generate a gap around the video. Based on your video rotation
+you may need a larger or smaller padding value to keep the whole video inside the container.
+
+### Vertical Padding
+
+Define the vertical padding in percent. Can be used to generate a gap around the video. Based on your video rotation
+you may need a larger or smaller padding value to keep the whole video inside the container.
+
+### Polaroid Settings
+
+Here you can define the background color, the padding of the Polaroid - use this editor to generate your personal
+polaroid look.
+
+Here you can define:
+
+- Padding left
+- Padding right
+- Padding top
+- Padding bottom
+- Background color
+
+<img src="/img/nxd_youtubebox/nxd-ytb-polaroid-settings.png" alt="NXD YouTubeBox Polaroid Editor" class="bordered" />
+
+### Border Radius
+
+Define the Border Radius of the YouTube Player. Values can be set in px, em or rem.
+
+### Aspect Ratio
+
+Define the Aspect Ratio of the YouTube Player. Allowed formats are 16:9 or 16/9.
+
+### Video Scaling
+
+In Polaroid mode, a format that may be unsuitable for the video box can be used. With video scaling, you can ensure that
+no black borders appear around the video. 
+
+### Container Shadow
+
+Here you can define a shadow for the YouTube Player Container. Available options are:
+
+- Offset X
+- Offset Y
+- Blur Radius
+- Color (rgba)
+
+<img src="/img/nxd_youtubebox/nxd-ytb-shadow-editor-detail.png" alt="NXD YouTubeBox Shadow Editor" class="bordered" />
+
+### Custom Classnames
+
+Here you can define custom CSS Classnames for the YouTube Player Container.

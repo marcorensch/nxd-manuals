@@ -60,7 +60,7 @@ If the Load Animation is enabled you can define the Item Delay here. The Item De
 each item waits (after the first one) before it starts the animation.
 
 :::info
-The Colors of the items are described in the [Colors](/docs/hyperionhub/settings/design/colors) Section.
+The Colors of the items are described in the [Colors](/hyperionhub/settings/design/colors) Section.
 :::
 
 <img src="/img/hyperionhub/item_settings.jpg" alt="HyperionHub Item Settings" class="bordered" />

@@ -11,13 +11,13 @@ This section describes options for features that are available in more than one 
 ## Multiple Images
 
 The following options are to configure the multiple images feature. See
-this [tutorial](/docs/widgetsbox/tutorials/multiple-images) for more information.
+this [tutorial](/widgetsbox/tutorials/multiple-images) for more information.
 If you don't use the multiple images feature, you can ignore this section.
 
 The options for this section are availabile for the following widgets:
-- [Grid](/docs/widgetsbox/configuration/widget_layout/grid)
-- [Slider](/docs/widgetsbox/configuration/widget_layout/slider)
-- [List](/docs/widgetsbox/configuration/widget_layout/list)
+- [Grid](/widgetsbox/configuration/widget_layout/grid)
+- [Slider](/widgetsbox/configuration/widget_layout/slider)
+- [List](/widgetsbox/configuration/widget_layout/list)
 
 The Options can be found in the ``Widget Layout`` tab.
 

@@ -253,7 +253,7 @@ The padding of the content. The default is ``small``. Available options are:
 ## Parallax Effect
 
 The parallax effect can be enabled by setting the ``Use Parallax Effect`` option to ``Yes``.
-The parallax effect is based on the [UIkit Parallax](https://getuikit.com/docs/parallax) component.
+The parallax effect is based on the [UIkit Parallax](https://getuikit.com/parallax) component.
 The Parallax effect can be setted up for the following elements:
 
 - **Title** - The title of the slideshow element

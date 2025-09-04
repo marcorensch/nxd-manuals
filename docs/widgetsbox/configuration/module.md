@@ -38,7 +38,7 @@ Image Field based on the available options:
 If you have selected ``Custom Field`` as Image Source you can here select the Custom Field that holds your article's
 image. Alternatively you can also select here a Custom Field of Type ``Subform`` that contains images. That way you can
 have a nice looking slider in supported Widgets (List / Grid).
-See [this Article](/docs/widgetsbox/tutorials/multiple-images) if you want to know more about this feature.
+See [this Article](/widgetsbox/tutorials/multiple-images) if you want to know more about this feature.
 
 ## Alternative Image Source
 

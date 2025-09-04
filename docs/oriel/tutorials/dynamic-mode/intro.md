@@ -30,8 +30,8 @@ You may noticed that we already have a section in the Oriel Documentation that c
 will
 show you all the necessary steps to create a Dynamic Gallery with Joomla! 4.x. If you want to know more about the
 Dynamic Mode, please
-read the [Source Modes](/docs/oriel/source-methods) Article.
+read the [Source Modes](/oriel/source-methods) Article.
 
-- Step 1: [Create the Custom Field](/docs/oriel/tutorials/dynamic-mode/create-cf)
-- Step 2: [Create the Module](/docs/oriel/tutorials/dynamic-mode/create-module)
-- Step 3: [Create the Articles & Assign the Custom Field](/docs/oriel/tutorials/dynamic-mode/create-articles)
+- Step 1: [Create the Custom Field](/oriel/tutorials/dynamic-mode/create-cf)
+- Step 2: [Create the Module](/oriel/tutorials/dynamic-mode/create-module)
+- Step 3: [Create the Articles & Assign the Custom Field](/oriel/tutorials/dynamic-mode/create-articles)

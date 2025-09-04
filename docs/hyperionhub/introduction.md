@@ -66,11 +66,11 @@ For articles and modules the Publication & Access settings of the selected artic
 
 ## Installation
 
-See [this article](/docs/general/joomla/install-extension) for more information on how to download & install an
+See [this article](/general/joomla/install-extension) for more information on how to download & install an
 extension in Joomla!
 
 ## Automatic Updates
 
 To receive automatic updates you need to have an active subscription for the product (free or paid). Additionally, you
 need to have the nx-designs Framework Plugin installed on your Joomla! website. The Plugin will grant you access to the
-update server. Learn more about the [nx-designs Framework Plugin](/docs/general/download_id).
+update server. Learn more about the [nx-designs Framework Plugin](/general/download_id).

@@ -49,7 +49,7 @@ If we save the article now we will get the following view when we open the artic
 <img src="/img/tutorials/oriel_hotels/all_in_frontend.png" alt="Add Module to Article" className="bordered" />
 
 Isn't it great? Maybe you'll notice some more nasty things, I'd like to replace the underscores in the filter labels and
-a gap between the pictures would be better... Checkout the related article [Custom Rules Introduction](/docs/oriel/custom-rules) to learn how to do this.
+a gap between the pictures would be better... Checkout the related article [Custom Rules Introduction](/oriel/custom-rules) to learn how to do this.
 
 <p class="alert alert--primary" role="alert">
 Repeat the steps on this page for all your articles (Hotels) - just select the related folder that holds your hotels images in every article and place the Module Instance inside the Article.

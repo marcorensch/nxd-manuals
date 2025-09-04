@@ -161,7 +161,7 @@ The delay between the animations of the grid items. The default is ``80``.
 ## Multiple Images
 
 The following options are to configure the multiple images feature. See
-this [tutorial](/docs/widgetsbox/tutorials/multiple-images) for more information.
+this [tutorial](/widgetsbox/tutorials/multiple-images) for more information.
 If you don't use the multiple images feature, you can ignore this section.
 
 ### Slideshow Type

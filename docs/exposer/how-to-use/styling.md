@@ -18,7 +18,7 @@ Module Instance.
 The Full UIkit Documentation can be found
 here: [https://getuikit.com/docs/introduction](https://getuikit.com/docs/introduction). In this Documentation you will
 find all relevant CSS Classnames that also can be used in Exposer.
-In adition, you will find [here](/docs/category/usefull-css-classes) some of the most usefull CSS Classes that can be
+In adition, you will find [here](/category/usefull-css-classes) some of the most usefull CSS Classes that can be
 used.
 
 ## Style Grid Items
