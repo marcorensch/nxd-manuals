@@ -14,6 +14,9 @@ used by Joomla! are supported.
 
 ![Log Viewer Structured](./_assets/log_structured_screenshot.png)
 
+You can define the "default view" in the component settings. Alternatively, you can temporarily change the view for a
+file using the "Switch Layout" button.
+
 :::note
 It is possible that a log file cannot be displayed correctly in the structure view. If this is the case, please report
 this error to us at support@nx-designs.ch and, if possible, send the file as an attachment.

@@ -13,16 +13,17 @@ LogManager is a Joomla! component that allows you to check and manage your Jooml
 
 ## Features
 
-- View Log Files
-- Copy Log Files
-- Download Log Files
-- Clean Log Files
-- Delete Log Files
-- Raw and Structured View for Log File Content
+- View Joomla! Log Files
+- Copy Joomla! Log Files
+- Rename Joomla! Log Files
+- Download Joomla! Log Files
+- Clean Joomla! Log Files
+- Delete Joomla! Log Files
+- Raw and Structured View for Joomla! Log File Content
 
 ## How much does LogManager cost?
 
-The short answer? Nothing! > Joomet was programmed for the Joomla! developer community and should support you in your
+The short answer? Nothing! > LogManager was programmed for the Joomla! developer community and should support you in your
 daily work. If LogManager has saved you time that you can now
 spend with friends or family, I would appreciate a small thank you in the form of a donation.
 
